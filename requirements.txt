@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-dotenv
+
+# DSPy — declarative LLM programming
+dspy-ai>=3.2.1

@@ -1,0 +1,27 @@
+# Virtual environment
+.venv/
+
+# Environment variables (never commit secrets)
+.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Pytest
+.pytest_cache/
+
+# DSPy compiled programs (contain optimized prompts — commit intentionally when ready)
+*.json
+
+# Database / cache
+*.db
+*.sqlite
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
