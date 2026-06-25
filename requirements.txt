@@ -5,3 +5,11 @@ python-dotenv
 
 # DSPy — declarative LLM programming
 dspy-ai>=3.2.1
+
+# HuggingFace dataset loading
+datasets
+
+# RAG retrieval (M21)
+faiss-cpu
+httpx
+numpy
